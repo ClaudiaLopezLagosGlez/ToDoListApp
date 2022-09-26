@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, 
+body {
+  color:rgb(174, 191, 226);
+  background-color: rgb(2, 19, 42);
+  font-family: Lato, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(118, 127, 162);
+}
+
+h3 {
+  color:rgb(170, 180, 206);
+  text-align: center; 
+  font-family: Roboto, sans-serif;
+  margin: 20px 0;
+}
+
+.To-do-list-app {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.TitleApp {
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  justify-content: center;
+  padding: 25px;
+  margin: 10px;
+}
+
+.ContainerList {
+  width: 600px;
+  min-height: 500px;
+  background-color: rgb(71, 82, 123);
+  padding: 25px;
+  margin: 10px;
+  justify-content: center;
+  border-radius: 26px;
+}

@@ -1,0 +1,29 @@
+.ContainerFormActivity {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.InputActivity {
+    width: 350px;
+    font-size: 18px;
+    background-color: rgb(185, 185, 240);
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid rgb(8, 1, 24);
+    outline: none;
+}
+
+.BotonAdd {
+    padding: 16px;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    outline: none;
+    background-color: rgb(29, 26, 59);
+    color: rgb(214, 211, 242);
+    text-transform: capitalize;
+}

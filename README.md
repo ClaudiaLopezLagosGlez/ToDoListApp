@@ -9,6 +9,6 @@ This is an academic activity I did as part of the MIT Xpro Full Stack Developer 
 ✅ Requirements: Installing Git and Copy the repository: 
 https://github.com/ClaudiaLopezLagosGlez/ToDoListApp.git
 
-♻️ Roadmap of future improvements: Roadmap for future improvements:  Add some paragraph showing instructions for use.
+♻️ Roadmap of future improvements:   Add some paragraph showing instructions for use.
 
 ©️ License information: This repository was made under the MIT license

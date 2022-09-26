@@ -1,3 +1,7 @@
+![ToDoListClaudiaLopezLagos](https://user-images.githubusercontent.com/101289219/192188373-e82be5ef-f1c5-4cdd-96a1-39d0f720336b.jpg)
+
+
+
 📌 Project Title: 
 ToDo List App
 
